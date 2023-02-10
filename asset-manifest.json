@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactHomeWork/static/css/main.0d01fca1.css",
+    "main.js": "/ReactHomeWork/static/js/main.73ce4bfb.js",
+    "static/js/787.66cb4309.chunk.js": "/ReactHomeWork/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/ReactHomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/ReactHomeWork/index.html",
+    "main.0d01fca1.css.map": "/ReactHomeWork/static/css/main.0d01fca1.css.map",
+    "main.73ce4bfb.js.map": "/ReactHomeWork/static/js/main.73ce4bfb.js.map",
+    "787.66cb4309.chunk.js.map": "/ReactHomeWork/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d01fca1.css",
+    "static/js/main.73ce4bfb.js"
+  ]
+}
