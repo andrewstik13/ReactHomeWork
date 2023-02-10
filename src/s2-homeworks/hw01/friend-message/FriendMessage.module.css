@@ -1,0 +1,45 @@
+.friendMessage {
+    width: 100%;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+
+.friendImageAndText {
+    float: left;
+    display: flex;
+    flex-direction: row;
+}
+
+.friendImageAndText img {
+    width: 50px;
+    order: 1;
+}
+
+.friendText {
+    order: 2;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.friendText:after {
+
+}
+
+.friendName {
+    text-align: left;
+    font-weight: bold;
+}
+
+.friendMessageText {
+    margin-top: 5px;
+}
+
+.friendTime {
+    clear: both;
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    width: 50px;
+}

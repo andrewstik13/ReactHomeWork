@@ -1,0 +1,46 @@
+.message {
+    width: 100%;
+    padding-right: 50px;
+    margin-top: 20px;
+}
+
+.imageAndText {
+    float: right;
+    display: flex;
+    flex-direction: row;
+}
+
+.imageAndText img {
+    width: 50px;
+    order: 2;
+    order: 2;
+}
+
+.text {
+    order: 1;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text:after {
+
+}
+
+.name {
+    text-align: right;
+    font-weight: bold;
+}
+
+.messageText {
+margin-top: 5px;
+}
+
+.time {
+    clear: both;
+    float: right;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    width: 50px;
+}
